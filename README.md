@@ -2,6 +2,7 @@ Simple Database Handling (Java + Swing + MySQL)
 
 This is a beginner-friendly Java Swing project designed to understand how a Java application can connect to a database (MySQL) and perform basic CRUD operations (Create, Read, Update, Delete).
 
+
 Project Overview
 
 This mini-project demonstrates:
@@ -19,6 +20,7 @@ This mini-project demonstrates:
 
 
 
+
 Technologies Used
 
 Java (JDK 8 or later) – Core programming language
@@ -30,6 +32,8 @@ MySQL – To store student records
 JDBC (Java Database Connectivity) – To connect Java and MySQL
 
 ArrayList – To store and navigate data in memory
+
+
 
 
 Database Setup
@@ -51,6 +55,8 @@ CREATE TABLE students (
     address VARCHAR(100),
     age INT
 );
+
+
 
 
 Features
