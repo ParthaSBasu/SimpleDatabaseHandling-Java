@@ -1,4 +1,5 @@
 Simple Database Handling (Java + Swing + MySQL)
+
 This is a beginner-friendly Java Swing project designed to understand how a Java application can connect to a database (MySQL) and perform basic CRUD operations (Create, Read, Update, Delete).
 
 Project Overview
